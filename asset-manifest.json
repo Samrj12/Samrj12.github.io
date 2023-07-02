@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Samrj12.github.io/static/css/main.14fa0954.css",
+    "main.js": "/Samrj12.github.io/static/js/main.0ccff941.js",
+    "static/media/Outro.mp4": "/Samrj12.github.io/static/media/Outro.e8ae59c5114644551eee.mp4",
+    "static/media/brain.png": "/Samrj12.github.io/static/media/brain.a1c6b746b648f8c537a3.png",
+    "static/media/customer-review.png": "/Samrj12.github.io/static/media/customer-review.4b30c2a6a2be96326d2b.png",
+    "index.html": "/Samrj12.github.io/index.html",
+    "main.14fa0954.css.map": "/Samrj12.github.io/static/css/main.14fa0954.css.map",
+    "main.0ccff941.js.map": "/Samrj12.github.io/static/js/main.0ccff941.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14fa0954.css",
+    "static/js/main.0ccff941.js"
+  ]
+}
