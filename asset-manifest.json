@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a980824.css",
-    "main.js": "/static/js/main.e2973fde.js",
-    "static/media/Outro.mp4": "/static/media/Outro.e8ae59c5114644551eee.mp4",
-    "static/media/brain.png": "/static/media/brain.a1c6b746b648f8c537a3.png",
-    "static/media/customer-review.png": "/static/media/customer-review.4b30c2a6a2be96326d2b.png",
-    "static/media/faqIcon.svg": "/static/media/faqIcon.892d8436d7ec3a4a9b5816b6156390bd.svg",
-    "index.html": "/index.html",
-    "main.9a980824.css.map": "/static/css/main.9a980824.css.map",
-    "main.e2973fde.js.map": "/static/js/main.e2973fde.js.map"
+    "main.css": "/hopon/static/css/main.3ecf37c1.css",
+    "main.js": "/hopon/static/js/main.b3d99af2.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/hopon/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Hop.svg": "/hopon/static/media/Hop.e494b9f03f805e4c9e40e6f1f33faa75.svg",
+    "static/media/micOff.svg": "/hopon/static/media/micOff.3a72f6826bb2e7a426c48fc669eb7e15.svg",
+    "static/media/mic.svg": "/hopon/static/media/mic.c9c9788e560a53fd75de7d17fc772f8a.svg",
+    "static/media/cameraOff.svg": "/hopon/static/media/cameraOff.a61d4a02c0eb084663511f927eab50b6.svg",
+    "static/media/camera.svg": "/hopon/static/media/camera.b50348a3a3753a3a2bed268d795fd52d.svg",
+    "index.html": "/hopon/index.html",
+    "static/media/copy.svg": "/hopon/static/media/copy.d8713b629ec4dc2fd36ebb759aac052a.svg",
+    "static/media/send.svg": "/hopon/static/media/send.17120aeb1366cea01abfd8c59126be4b.svg",
+    "main.3ecf37c1.css.map": "/hopon/static/css/main.3ecf37c1.css.map",
+    "main.b3d99af2.js.map": "/hopon/static/js/main.b3d99af2.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/hopon/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a980824.css",
-    "static/js/main.e2973fde.js"
+    "static/css/main.3ecf37c1.css",
+    "static/js/main.b3d99af2.js"
   ]
 }
